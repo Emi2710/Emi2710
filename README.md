@@ -1,6 +1,6 @@
 ## About me
 
-I'm a frontend developper based in France.
+I'm a software developper based in France.
 
 ## Languages & Tools
 
